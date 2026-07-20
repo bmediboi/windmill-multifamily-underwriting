@@ -1,0 +1,7 @@
+unit_type,num_units,avg_sqft,current_rent,market_rent,rent_per_sqft_current
+Studio A Reno,9,226,725,800,3.21
+Studio B Reno,4,256,812,895,3.17
+Studio B Classic,2,267,805,825,3.01
+1BR/1BA Reno,13,464,1007,1050,2.17
+1BR/1BA Classic,4,506,999,1000,1.97
+2BR/2BA Reno,1,952,1375,1400,1.44
